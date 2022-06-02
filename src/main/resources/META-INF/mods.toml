@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="arcadia"
+version="${file.jarVersion}"
+displayName="Arcadia"
+logoFile=""
+credits="SilentChaos512"
+authors="[Entisy, Kimunachan, LordMalto]"
+description='''
+'''
+#[[dependencies.arcadia]]
+#    modId="forge"
+#    mandatory=true
+#    versionRange="[36,)"
+#    ordering="NONE"
+#    side="BOTH"
+#[[dependencies.arcadia]]
+#    modId="minecraft"
+#    mandatory=true
+#    versionRange="[1.16.5,1.17)"
+#    ordering="NONE"
+#    side="BOTH"
